@@ -1,0 +1,18 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "Recruiting",
+            "versionName": "ver 1",
+            "versionNumber": "1.0.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "43.0",
+    "packageAliases": {
+        "Recruiting": "0Ho1t000000KyofCAC",
+        "Recruiting@1.0.0-1": "04t1t000000ywSOAAY"
+    }
+}

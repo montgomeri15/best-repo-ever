@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Extend_an_Offer</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Extend an Offer</shortDescription>
+        <value>Extend an Offer</value>
+    </labels>
+    <labels>
+        <fullName>Send_Rejection_Letter</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Send Rejection Letter</shortDescription>
+        <value>Send Rejection Letter</value>
+    </labels>
+</CustomLabels>
